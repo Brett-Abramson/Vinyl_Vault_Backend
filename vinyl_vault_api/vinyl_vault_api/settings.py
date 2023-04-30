@@ -39,7 +39,6 @@ ALLOWED_HOSTS = ['localhost', 'vinyl-vault.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
-    'whitenoise',
     'django_filters',
     'corsheaders',
     'rest_framework',

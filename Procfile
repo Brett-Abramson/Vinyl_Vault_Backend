@@ -1,1 +1,1 @@
-web: sh -c 'cd ./vinyl_vault_api/ && exec gunicorn vinyl_vault_api.wsgi --logfile -'
+web: sh -c 'cd ./vinyl_vault_api/ && exec gunicorn vinyl_vault_api.wsgi'

@@ -1,1 +1,1 @@
-web: gunicorn vinyl_vault_api.wsgi
+web: gunicorn vinyl_vault_api.vinyl_vault_api.wsgi

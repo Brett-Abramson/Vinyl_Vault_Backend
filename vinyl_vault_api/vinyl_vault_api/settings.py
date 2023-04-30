@@ -57,6 +57,10 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+FIXTURE_DIRS = [
+    'fixtures',
+]
+
 ROOT_URLCONF = 'vinyl_vault_api.urls'
 
 TEMPLATES = [

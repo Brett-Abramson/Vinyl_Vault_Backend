@@ -12,5 +12,5 @@ ____
 - Django REST Framework
 - Django Filters
 - PostgreSQL
-- Tailwind CSS
+
 
